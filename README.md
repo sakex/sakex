@@ -3,7 +3,7 @@
 ## I'm a student in Finance | I have a deep passion for finance and programming!
 
 
-- 🔭 I’m currently working on a FinTech startup
+- 🔭 I’m currently working on an automated AI trading project
 
 ### Connect with me:
 
