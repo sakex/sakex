@@ -1,5 +1,7 @@
 ### Hi there, I'm Alexandre 👋
 
+<img src="https://i.redd.it/7qu3g2rxmnv51.jpg" />
+
 ## I'm a student in Finance | I have a deep passion for finance and programming!
 
 
