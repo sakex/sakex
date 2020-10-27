@@ -8,7 +8,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Alexandre Senges | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alexandre Senges | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Alexandre Senges | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/facebook.svg" />][facebook]
 
 <br /><br />
