@@ -41,6 +41,9 @@
   
 [![Sakex Github's stats](https://github-readme-stats.vercel.app/api?username=sakex&show_icons=true&include_all_commits=true&icon_color=blue&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </details>
 
 
