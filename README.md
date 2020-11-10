@@ -4,7 +4,7 @@
 
 ## I'm a Rust/C/C++/Go/TS/JS/Python dev | I enjoy the advanced programming stuff like low level programming, metaprogramming, networking, algorithms, etc. 
 
-- 🗡️ I work as a research assistant for the Persuasive Technology Lab at the University of Lausanne 
+- 🗡️ I work as a research assistant for the [Persuasive Technology Lab](https://wp.unil.ch/persuasivelab/) at the University of Lausanne 
 - 🔭 I’m currently working on an automated AI trading project
 
 ### Connect with me:
