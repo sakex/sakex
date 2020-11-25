@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandre 👋
 
-<img src="https://live.staticflickr.com/7161/6714560319_e74cc04636_b.jpg" />
+<img src="https://www.gannett-cdn.com/-mm-/27ec4c26b9398a946ef1bcc95f9c51f53fd3ce25/c=0-101-4369-2569/local/-/media/2017/05/03/CNYGroup/Binghamton/636293713531088602-0504-Henderson-Raven.jpg" />
 
 ## I'm a Rust/C/C++/Go/TS/JS/Python dev | I enjoy the advanced programming stuff like low level programming, metaprogramming, networking, algorithms, etc. 
 
