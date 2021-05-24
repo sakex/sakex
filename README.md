@@ -1,10 +1,10 @@
 ### Hi there, I'm Alexandre 👋
 
-<img src="https://www.gannett-cdn.com/-mm-/27ec4c26b9398a946ef1bcc95f9c51f53fd3ce25/c=0-101-4369-2569/local/-/media/2017/05/03/CNYGroup/Binghamton/636293713531088602-0504-Henderson-Raven.jpg" />
+<img src="https://cdn.nextgov.com/media/img/cd/2020/10/19/NGspace20201019/860x394.jpg?1618395239" />
 
 ## I'm a Rust/C/C++/Go/TS/JS/Python dev | I enjoy the advanced programming stuff like low level programming, metaprogramming, networking, algorithms, etc. 
 
-- 🗡️ I work as a research assistant for the [Persuasive Technology Lab](https://wp.unil.ch/persuasivelab/) at the University of Lausanne 
+- 🗡️ I work as a software engineer for [Second Spectrum](https://www.secondspectrum.com/index.html) 
 - 🔭 I’m currently working on an automated AI trading project
 
 ### Connect with me:
