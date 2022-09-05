@@ -4,7 +4,7 @@
 
 ## I'm a Rust/C/C++/Go/TS/JS/Python dev | I enjoy the advanced programming stuff like low level programming, metaprogramming, networking, algorithms, etc. 
 
-- 🗡️ I work as a software engineer for [Second Spectrum](https://www.secondspectrum.com/index.html) 
+- 🗡️ I work as a software engineer for Google
 - 🔭 I’m currently working on an automated AI trading project
 
 ### Connect with me:
